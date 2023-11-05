@@ -1,8 +1,8 @@
-# CURSO JAVA 2023
+<b> CURSO DE JAVA 2023 </b>
 <br>
 <br>
 
-## "Trabajo Práctico Integrador Front" 
+<b> "Trabajo Práctico Integrador" </b>
 <br>
 <br>
 https://ferchy341.github.io/CaCTPF/
